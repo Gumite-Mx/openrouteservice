@@ -6,7 +6,7 @@ ors:
   engine:
     profile_default:
       build:
-        source_file: graphs/mexico-latest.osm.pbf
+        source_file: ./graphs/mexico-latest.osm.pbf
     profiles:
       driving-car:
         enabled: true
